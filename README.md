@@ -1,4 +1,4 @@
 # Larve
 Ce sont des larves
 
-![Exemple](larve/larve.png)
+![Exemple](larve/Larve.png)
